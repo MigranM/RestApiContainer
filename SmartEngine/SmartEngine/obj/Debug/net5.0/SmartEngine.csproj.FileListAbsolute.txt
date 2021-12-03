@@ -1,0 +1,11 @@
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\bin\Debug\net5.0\SmartEngine.deps.json
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\bin\Debug\net5.0\SmartEngine.dll
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\bin\Debug\net5.0\ref\SmartEngine.dll
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\bin\Debug\net5.0\SmartEngine.pdb
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.AssemblyInfoInputs.cache
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.AssemblyInfo.cs
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.csproj.CoreCompileInputs.cache
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.dll
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\ref\SmartEngine.dll
+F:\Ковчег\Утеба\Иные работы\REST\SmartEngine\SmartEngine\obj\Debug\net5.0\SmartEngine.pdb
