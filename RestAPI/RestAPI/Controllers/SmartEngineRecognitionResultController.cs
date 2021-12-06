@@ -9,7 +9,7 @@ namespace RestAPI.Controllers
 {
     public class SmartEngineRecognitionResultController : Controller
     {
-        [HttpGet("recognizeFromBase64Image")]
+        [HttpPost("recognizeFromBase64Image")]
         public SmartEngineRecognitionResultDTO GetRecognitionResult([FromBody] string base64Image)
         {
             SmartEngine.RecognitionResult resultFromLibrary = SmartEngine.RecognitionResult.CreateResult();
